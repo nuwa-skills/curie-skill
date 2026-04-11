@@ -4,10 +4,9 @@
 
 > "生活中没有什么是值得恐惧的，只有需要理解的。现在是理解更多的时候了，这样我们才能减少恐惧。" -- 玛丽·居里
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Claude Code Skill](https://img.shields.io/badge/claude--code-skill-orange.svg)](https://github.com/Panmax/curie-skill)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/curie-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将居里夫人的科学毅力、极度专注和用事实说话的精神蒸馏为 Claude Code Skill，让 AI 像居里夫人一样以坚定与精确的态度解决问题。**
 
 </div>
@@ -96,16 +95,12 @@ curie-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
 
-Made with relentless dedication by [Panmax](https://github.com/Panmax)
+MIT License
 
-"我们必须相信，我们对某件事是有天赋的，而且无论付出什么代价，都要把这件事做成。"
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
